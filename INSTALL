@@ -1,0 +1,9 @@
+Building Lock
+
+See doc/readme-qt.rst for instructions on building Lock QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lock.
+
+See doc/build-*.txt for instructions on building lockd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lock.
